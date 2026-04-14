@@ -12,7 +12,7 @@
 
 ---
 
-<h3>Tech Stack & Tools</h3> 
+<h3 align="center">Tech Stack & Tools</h3> 
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
