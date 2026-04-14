@@ -9,14 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dev-FF4C29?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile%20Apps-00C853?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desktop%20Apps-1565C0?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databases-FFD600?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-8E24AA?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
 
 ---
 
