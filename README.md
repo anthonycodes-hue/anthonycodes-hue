@@ -55,13 +55,14 @@
 </p>
 
 ---
-<h3>Where to find me</h3>
-<p>
+<h3 align="center">Where to find me</h3>
+<p align="center">
   <a href="mailto:your@email.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
   </a>
 </p>
 ---
