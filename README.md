@@ -56,8 +56,8 @@
 
 ---
 
-<h3 align="center">Where to find me</h3>
-<p align="center">
+<h3>Where to find me</h3>
+<p>
   <a href="mailto:anthonycrausus.dev@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
