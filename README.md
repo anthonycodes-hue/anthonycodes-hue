@@ -36,17 +36,15 @@
 -  **Open Source Contributions**
 ```
 
-[My Portfolio](https://anthony-fullstack-dev.vercel.app)
-
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=dark" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyc-dev&layout=compact&theme=dark" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonycodes-hue&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonycodes-hue&layout=compact&theme=dark" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyc-dev&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonycodes-hue&theme=react-dark" />
 </p>
 
 
