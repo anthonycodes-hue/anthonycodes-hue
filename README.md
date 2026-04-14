@@ -27,13 +27,15 @@
 
 ---
 
-```md
-### I’m Interested In
--  **Web Development** (Frontend, Backend, Full-stack)  
--  **Mobile App Development** (iOS, Android)  
--  **Desktop Applications** (Windows, Cross-platform)  
--  **Databases:** MySQL, MongoDB, Firebase, and more  
--  **Open Source Contributions**
+```java
+//I’m Interested In
+List<String> interestedIn = Arrays.asList(
+    "Web Development (Frontend, Backend, Full-stack)",
+    "Mobile App Development (iOS, Android)",
+    "Desktop Applications (Windows, Cross-platform)",
+    "Databases: MySQL, MongoDB, Firebase, and more",
+    "Open Source Contributions"
+);
 ```
 
 ----
