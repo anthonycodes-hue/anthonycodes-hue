@@ -32,7 +32,7 @@
 
 ---
 
-```java
+```ts
   //I’m Interested In
   List<String> interestedIn = Arrays.asList(
       "Web Development (Frontend, Backend, Full-stack)",
