@@ -58,14 +58,14 @@
 <h3>Where to find me</h3>
 <p>
   <a href="mailto:your@email.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
+    <img src="https://img.icons8.com/color/30/gmail-new.png" width="35" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
+    <img src="https://img.icons8.com/color/30/linkedin.png" width="35" />
   </a>
 </p>
-
+---
 <p align="center">
   <b>Let's connect and build something awesome!</b>
 </p>
