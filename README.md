@@ -55,8 +55,8 @@
 </p>
 
 ---
-<h3 align="center">Where to find me</h3>
-<p align="center">
+<h3>Where to find me</h3>
+<p>
   <a href="mailto:your@email.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="45" />
   </a>
@@ -65,7 +65,6 @@
     <img src="https://img.icons8.com/color/48/linkedin.png" width="45" />
   </a>
 </p>
----
 
 <p align="center">
   <b>Let's connect and build something awesome!</b>
