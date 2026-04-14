@@ -55,16 +55,19 @@
 </p>
 
 ---
+
 <h3 align="center">Where to find me</h3>
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="mailto:anthonycrausus.dev@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-crausus-19b974269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ---
+
 <p align="center">
   <b>Let's connect and build something awesome!</b>
 </p>
